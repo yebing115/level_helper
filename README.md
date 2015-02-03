@@ -1,5 +1,5 @@
 # level_helper
-help you to go through all the levels
+help you to go through all the DungeonGems levels
 
 # install
 make sure you have nodejs then   
